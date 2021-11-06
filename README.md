@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+  <img width="200" src="./R-pass.png" alt="Material Bread logo">
   
   <h1 align="center">Remember-Password</h1>
 </p>                                                                
