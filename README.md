@@ -17,7 +17,29 @@ R-Pass is a Python GUI based Password Store and Generator System , Save and Easy
   <img width="800" src="./r-pass.PNG" alt="R-Pass homepage">
   </p>
   
-  # Install 
+
+## Installation
+
+Clone from github
+
+```bash
+  git clone https://github.com/naemazam/Remember-Password.git
+```
+Run it
+
+```python
+  python3 R-Pass.py
+```
+    
   
-  # uses 
+  # User Guide
+  For save Data: 
+  - Put Your website name  
+  - Mail address or  UserId 
+  - Put Password or Genarate It. 
+  - Click on Save to Save it
   ![](./rpass2.PNG)
+  
+  For Find Data: 
+  - Put Your website name
+  - Click *Search*.
